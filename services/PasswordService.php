@@ -1,6 +1,6 @@
 <?php
 
-require_once 'PasswordGenerator.php';
+require_once __DIR__ . '/PasswordGenerator.php';
 
 class PasswordService {
 
